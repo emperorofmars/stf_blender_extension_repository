@@ -28,6 +28,33 @@
       "archive_url": "https://github.com/emperorofmars/stf_blender/releases/download/v0.0.8/stf_blender-0.0.8.zip",
       "archive_size": 133468,
       "archive_hash": "sha256:cb6465869a8ff43f694907b2829cffdb5c293e2a197e096b55d67f197a158cff"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "stf_blender",
+      "name": "STF - Squirrel Transfer Format",
+      "tagline": "Modular 3D File-Format",
+      "version": "0.0.9",
+      "type": "add-on",
+      "maintainer": "Mars (https://squirrelbite.com)",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "4.4.0",
+      "website": "https://stfform.at/",
+      "permissions": {
+        "files": "Import/export STF from/to disk",
+        "clipboard": "Copy and paste STF definitions between different tools"
+      },
+      "tags": [
+        "Import-Export",
+        "Development",
+        "User Interface",
+        "Scene"
+      ],
+      "archive_url": "https://github.com/emperorofmars/stf_blender/releases/download/v0.0.9/stf_blender-0.0.9.zip",
+      "archive_size": 133475,
+      "archive_hash": "sha256:034b9ec5fec354408628fb5ded18d459b8fbaf58eb963314c9f4e0342062287f"
     }
   ]
 }
