@@ -7,7 +7,7 @@
       "id": "stf_blender",
       "name": "STF - Squirrel Transfer Format",
       "tagline": "Modular 3D File-Format",
-      "version": "0.0.22",
+      "version": "0.0.23",
       "type": "add-on",
       "maintainer": "Mars (https://squirrelbite.com)",
       "license": [
@@ -26,9 +26,9 @@
         "User Interface",
         "Scene"
       ],
-      "archive_url": "https://github.com/emperorofmars/stf_blender/releases/download/v0.0.22/stf_blender-0.0.22.zip",
-      "archive_size": 185179,
-      "archive_hash": "sha256:1e5695641e91b6089ad0f1e057f0cdc6a0963d75a91a6f57898cbc36f724fcf9"
+      "archive_url": "https://github.com/emperorofmars/stf_blender/releases/download/v0.0.23/stf_blender-0.0.23.zip",
+      "archive_size": 184263,
+      "archive_hash": "sha256:be4b241cda1935c15709c74e55fb294a0bb60106f7d9ab04227cd28f3e3573c2"
     }
   ]
 }
